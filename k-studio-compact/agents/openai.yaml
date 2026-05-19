@@ -1,0 +1,6 @@
+interface:
+  display_name: "K-Studio Compact"
+  short_description: "Compress K-Studio module outputs into compact prompt"
+  default_prompt: "Use $k-studio-compact to help with this K-Studio compact prompt task."
+policy:
+  allow_implicit_invocation: true

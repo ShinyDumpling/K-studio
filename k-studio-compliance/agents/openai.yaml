@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "K-Studio Compliance"
+  short_description: "检查 K-Studio 提示词中的潜在违规风险，并给出保留审美意图的替换建议。"
+  default_prompt: "请检查这段 K-Studio 提示词中可能触发生图模型违规策略的词句，并只给出替换建议，不要自动修改原文。"

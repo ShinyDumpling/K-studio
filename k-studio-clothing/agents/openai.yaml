@@ -1,0 +1,6 @@
+interface:
+  display_name: "K-Studio Clothing"
+  short_description: "Analyze K-Studio clothing, styling, and accessories"
+  default_prompt: "Use $k-studio-clothing to help with this K-Studio image prompt analysis task."
+policy:
+  allow_implicit_invocation: true

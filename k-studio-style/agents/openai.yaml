@@ -1,0 +1,6 @@
+interface:
+  display_name: "K-Studio Style"
+  short_description: "Analyze overall K-Studio visual style from references"
+  default_prompt: "Use $k-studio-style to help with this K-Studio image prompt analysis task."
+policy:
+  allow_implicit_invocation: true

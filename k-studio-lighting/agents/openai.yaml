@@ -1,0 +1,6 @@
+interface:
+  display_name: "K-Studio Lighting"
+  short_description: "Analyze K-Studio lighting direction, quality, and mood"
+  default_prompt: "Use $k-studio-lighting to help with this K-Studio image prompt analysis task."
+policy:
+  allow_implicit_invocation: true

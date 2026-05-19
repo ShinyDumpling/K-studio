@@ -1,0 +1,6 @@
+interface:
+  display_name: "K-Studio Technical"
+  short_description: "Analyze K-Studio camera and lens technical cues"
+  default_prompt: "Use $k-studio-technical to help with this K-Studio image prompt analysis task."
+policy:
+  allow_implicit_invocation: true

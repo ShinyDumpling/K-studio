@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kiss"
+  short_description: "Route K-Studio multi-step prompt analysis workflows"
+  default_prompt: "Use $kiss to help with this K-Studio image prompt analysis task."
+policy:
+  allow_implicit_invocation: true
