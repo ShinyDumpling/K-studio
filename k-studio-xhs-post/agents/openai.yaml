@@ -1,4 +1,0 @@
-interface:
-  display_name: "K-Studio 小红书发布"
-  short_description: "为 AI 写真提示词或图片生成小红书标题和短文案。"
-  default_prompt: "请根据这组 AI 写真提示词或图片，生成小红书标题和短文案。"
